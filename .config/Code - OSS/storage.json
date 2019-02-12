@@ -1,0 +1,51 @@
+{
+    "telemetry.machineId": "938605ca610f3200a4c1d7ecfe166c0123dde3b54fcc8fe12545ee0184807395",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///home/main/dwm-status",
+            "file:///home/main/dwm",
+            "file:///home/main/Downloads",
+            "file:///home/main/Downloads/procps-3.2.8"
+        ],
+        "files2": [
+            "file:///home/main/dwm/config.h",
+            "file:///home/main/dwm-status/dwm-status.c",
+            "file:///home/main/Downloads/procps-3.2.8/free.c",
+            "file:///home/main/.config/fontconfig/fonts.conf",
+            "file:///home/main/dwm/config.mk",
+            "file:///home/main/dotfiles/.xinitrc",
+            "file:///home/main/dwm/Makefile",
+            "file:///home/main/dwm/dwm",
+            "file:///home/main/dwm/dwm.c",
+            "file:///home/main/dwm/drw.h",
+            "file:///home/main/st/config.h",
+            "file:///home/main/.xinitrc",
+            "file:///home/main/.bash_profile",
+            "file:///home/main/dotfiles/.profile",
+            "file:///home/main/.screenlayout/default.sh"
+        ]
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#282828",
+    "pickerWorkingDir": "/home/main/dwm",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/home/main/dwm-status",
+                "external": "file:///home/main/dwm-status",
+                "path": "/home/main/dwm-status",
+                "scheme": "file"
+            },
+            "backupPath": "/home/main/.config/Code - OSS/Backups/2a4bbe9ae252cbcf71ba3cd6216f8e10",
+            "uiState": {
+                "mode": 1,
+                "x": 1920,
+                "y": 0,
+                "width": 1054,
+                "height": 1060
+            }
+        }
+    }
+}
