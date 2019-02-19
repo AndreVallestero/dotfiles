@@ -1,3 +1,3 @@
 #!/bin/sh
 
-sed "s/-march=\S*/march=native/g; s/ -mtune=\S*//g; s/.*MAKEFLAGS=.*/MAKEFLAGS=\"-j\$(nproc)\"/; s/COMPRESSXZ=.*/COMPRESSXZ=(xz -c -z --threads=0)/" /etc/makepkg.conf > ~/.makepkg.conf
+sed "s/-march=\S*/-march=native/g; s/ -mtune=\S*//g; s/.*MAKEFLAGS=.*/MAKEFLAGS=\"-j\$(nproc)\"/; s/COMPRESSXZ=.*/COMPRESSXZ=(xz -c -z --threads=0)/" /etc/makepkg.conf > ~/.makepkg.conf
