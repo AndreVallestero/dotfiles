@@ -6,3 +6,4 @@ sudo timedatectl set-ntp true
 sudo ntpd stop
 sudo ntpdate ntp.ubuntu.com
 sudo ntpd start
+sudo hwclock --systohc
