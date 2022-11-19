@@ -4,6 +4,8 @@ Personal dotfiles for *nix systems. Tested with:
 - Alpine
 - Debian
 
+Apply them using `stow .`
+
 ## TODO
 - Use nvim built-in spell check
 - [Rewrite nvim conf to lua (init.lua)](https://oroques.dev/notes/neovim-init/)
