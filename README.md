@@ -1,12 +1,12 @@
 # dotfiles
 Personal dotfiles for *nix systems. Tested with:
-- Arch Linux
-- Alpine Linux
+- Arch
+- Alpine
 - Debian
 
 ## TODO
 - Use nvim built-in spell check
-- [Rewrite nvim conf to lua](https://oroques.dev/notes/neovim-init/)
+- [Rewrite nvim conf to lua (init.lua)](https://oroques.dev/notes/neovim-init/)
 - Opt for the new nvim built-in LSP client instead of CoC
 - Use a lua based nvim package manager like paq or packer
 - Add full support for TypeScript
