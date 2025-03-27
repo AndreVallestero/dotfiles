@@ -20,6 +20,7 @@ Apply them using `stow .`
   - RustFmt
   - In-line or end-of-line type hints
 - Disable nvim-treesitter unless needed
+- Use Yambar instead of Waybar
 
 ## License
 These dotfiles are licensed under any of the following (pick your preference):
